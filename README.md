@@ -1,6 +1,6 @@
 # Crop Recommendation System
 
-This Application recommends the best crop to plant based on Soil and Weather conditions!
+This Application recommends the best crop to plant based on Soil and Weather conditions.
 
 
 ## Crop recommendation system models
